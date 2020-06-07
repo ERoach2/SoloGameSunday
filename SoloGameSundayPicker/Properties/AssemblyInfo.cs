@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("SoloGameSundayPicker")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("E. Roach")]
 [assembly: AssemblyProduct("SoloGameSundayPicker")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
